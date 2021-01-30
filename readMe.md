@@ -1,1 +1,2 @@
-Thiz is a basic application that uses Flask and SQLite and implements the CRUD methods.
+This is a basic application that uses Flask and SQLite and also implements the CRUD methods.
+
